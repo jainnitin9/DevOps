@@ -1,4 +1,8 @@
 This is Hello World Program
 Welcome to the DevOps demos - Topic No. 1. GIT
 
+<<<<<<< HEAD
 Conflict added Test 02
+=======
+Conflit added in Hello World file
+>>>>>>> 4ffc7317c1271b4b081e921b52ebc247f5e55f37
